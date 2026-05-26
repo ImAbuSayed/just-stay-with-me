@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Just Stay With Me
+
+This log tracks the cryptographic history and versioning for the song **Just Stay With Me** (just-stay-with-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:14:53.991275 | `v1` | `6161bb433f2c74cb2b6768974ebcd6dc66cad4dc60fda5ba0aea098d11df1b45` | `a52f873a69a9d50e2ae5faa3b7cb9c5e0d55adfbcffde674dfdaffe8290904a2` | `2026-05-26_just-stay-with-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
